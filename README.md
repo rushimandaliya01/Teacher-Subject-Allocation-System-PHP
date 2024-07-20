@@ -13,3 +13,7 @@ Admin can also update his profile, change the password and recover the password.
 Brief of Home Page
 
 It is home page of “Teacher Subject Allocation Management System” on this teacher can view allotment of subject by the help of their employee id.
+
+Admin Credential
+Username: admin
+Password: Test@123
